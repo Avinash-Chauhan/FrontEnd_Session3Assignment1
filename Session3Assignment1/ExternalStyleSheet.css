@@ -1,0 +1,20 @@
+  #tab1,#tab3{
+    border: 1px solid black;
+    width: 30%;
+}
+#tab2{
+    border : 1px solid black;
+    width: 20%;
+     
+}
+td,th{
+     border: 1px solid black;
+}
+  #Heading{
+    text-align: center;
+    column-span: 3;
+  }
+ #Heading1{
+    text-align: center;
+    column-span: 2;
+ }
